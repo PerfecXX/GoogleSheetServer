@@ -1,2 +1,4 @@
-# GoogleSheetServer
-Connect your client with your dedicated Google Sheet server.
+# Google Sheet Server
+
+Connect your client to a single server, but multiply protocal support.
+
